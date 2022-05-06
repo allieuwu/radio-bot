@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_TOKEN_HERE | RENAME FILE TO config.json ",
+  "CLIENT_ID": "BOT CLIENT_ID HERE",
+  "GUILD_ID": "DEVELOPER GUILD_ID HERE"
+}
